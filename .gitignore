@@ -1,0 +1,5 @@
+# Mac-specific
+.DS_Store
+
+# Project-related
+_research/
